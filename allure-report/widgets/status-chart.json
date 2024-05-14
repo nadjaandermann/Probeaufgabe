@@ -1,0 +1,211 @@
+[ {
+  "uid" : "bf308df653cd5eeb",
+  "name" : "checkoutNurNutzerName",
+  "time" : {
+    "start" : 1715718116902,
+    "stop" : 1715718116930,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f5cf3057734e63b",
+  "name" : "producthinzufuegen",
+  "time" : {
+    "start" : 1715718115390,
+    "stop" : 1715718115801,
+    "duration" : 411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c48a4a9140e90227",
+  "name" : "loginFalschesPasswort",
+  "time" : {
+    "start" : 1715718113465,
+    "stop" : 1715718113533,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1635d236022e368",
+  "name" : "productSite",
+  "time" : {
+    "start" : 1715718115830,
+    "stop" : 1715718115983,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb1145af506828e9",
+  "name" : "loginRichtigeDaten",
+  "time" : {
+    "start" : 1715718113603,
+    "stop" : 1715718113680,
+    "duration" : 77
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e105521e3424f35f",
+  "name" : "checkoutMitKorrektenDaten",
+  "time" : {
+    "start" : 1715718116965,
+    "stop" : 1715718117001,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "211f4f4c112aba57",
+  "name" : "checkProductPrice",
+  "time" : {
+    "start" : 1715718115101,
+    "stop" : 1715718115102,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90d4dfc747eead4c",
+  "name" : "ckeckPicture",
+  "time" : {
+    "start" : 1715718115105,
+    "stop" : 1715718115106,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94114e23d60df95a",
+  "name" : "checkPrice",
+  "time" : {
+    "start" : 1715718113964,
+    "stop" : 1715718114300,
+    "duration" : 336
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e369445f26e320b5",
+  "name" : "loginOhneDaten",
+  "time" : {
+    "start" : 1715718113061,
+    "stop" : 1715718113376,
+    "duration" : 315
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c0abfb4f1375c23",
+  "name" : "checkProductInfo",
+  "time" : {
+    "start" : 1715718115103,
+    "stop" : 1715718115104,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f11e045b16c7659",
+  "name" : "loginOhnePasswort",
+  "time" : {
+    "start" : 1715718113395,
+    "stop" : 1715718113463,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20a939ae24934d62",
+  "name" : "checkProductName",
+  "time" : {
+    "start" : 1715718114358,
+    "stop" : 1715718114401,
+    "duration" : 43
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e274e21cda4c741e",
+  "name" : "checkProductName",
+  "time" : {
+    "start" : 1715718114690,
+    "stop" : 1715718115099,
+    "duration" : 409
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38e7d70568d55893",
+  "name" : "checkoutOhneDaten",
+  "time" : {
+    "start" : 1715718116437,
+    "stop" : 1715718116901,
+    "duration" : 464
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcd15e00a2da6bfc",
+  "name" : "loginGesperrterUser",
+  "time" : {
+    "start" : 1715718113535,
+    "stop" : 1715718113602,
+    "duration" : 67
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "733c44fe9d6df63f",
+  "name" : "productSiteDelet",
+  "time" : {
+    "start" : 1715718115984,
+    "stop" : 1715718116147,
+    "duration" : 163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "733120549e2b541",
+  "name" : "checkoutFinish",
+  "time" : {
+    "start" : 1715718117002,
+    "stop" : 1715718117033,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa87bec012bdaffa",
+  "name" : "productloeschen",
+  "time" : {
+    "start" : 1715718115803,
+    "stop" : 1715718115829,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5383c66fbc1cdb5",
+  "name" : "checkoutOhneZip",
+  "time" : {
+    "start" : 1715718116931,
+    "stop" : 1715718116963,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a11a824213810d7a",
+  "name" : "checkProductBild",
+  "time" : {
+    "start" : 1715718114302,
+    "stop" : 1715718114357,
+    "duration" : 55
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

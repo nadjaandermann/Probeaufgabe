@@ -1,0 +1,265 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "TA-FA-NB-001.fritz.box",
+    "children" : [ {
+      "name" : "33529@TA-FA-NB-001.fritz.box.main(1)",
+      "children" : [ {
+        "name" : "checkoutNurNutzerName",
+        "uid" : "bf308df653cd5eeb",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718116902,
+          "stop" : 1715718116930,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "producthinzufuegen",
+        "uid" : "2f5cf3057734e63b",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718115390,
+          "stop" : 1715718115801,
+          "duration" : 411
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "loginFalschesPasswort",
+        "uid" : "c48a4a9140e90227",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718113465,
+          "stop" : 1715718113533,
+          "duration" : 68
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "productSite",
+        "uid" : "c1635d236022e368",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718115830,
+          "stop" : 1715718115983,
+          "duration" : 153
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "loginRichtigeDaten",
+        "uid" : "fb1145af506828e9",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718113603,
+          "stop" : 1715718113680,
+          "duration" : 77
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "checkoutMitKorrektenDaten",
+        "uid" : "e105521e3424f35f",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718116965,
+          "stop" : 1715718117001,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "checkProductPrice",
+        "uid" : "211f4f4c112aba57",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718115101,
+          "stop" : 1715718115102,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "ckeckPicture",
+        "uid" : "90d4dfc747eead4c",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718115105,
+          "stop" : 1715718115106,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "checkPrice",
+        "uid" : "94114e23d60df95a",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718113964,
+          "stop" : 1715718114300,
+          "duration" : 336
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "loginOhneDaten",
+        "uid" : "e369445f26e320b5",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718113061,
+          "stop" : 1715718113376,
+          "duration" : 315
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "checkProductInfo",
+        "uid" : "5c0abfb4f1375c23",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718115103,
+          "stop" : 1715718115104,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "loginOhnePasswort",
+        "uid" : "7f11e045b16c7659",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718113395,
+          "stop" : 1715718113463,
+          "duration" : 68
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "checkProductName",
+        "uid" : "20a939ae24934d62",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718114358,
+          "stop" : 1715718114401,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "checkProductName",
+        "uid" : "e274e21cda4c741e",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718114690,
+          "stop" : 1715718115099,
+          "duration" : 409
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "checkoutOhneDaten",
+        "uid" : "38e7d70568d55893",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718116437,
+          "stop" : 1715718116901,
+          "duration" : 464
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "loginGesperrterUser",
+        "uid" : "fcd15e00a2da6bfc",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718113535,
+          "stop" : 1715718113602,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "productSiteDelet",
+        "uid" : "733c44fe9d6df63f",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718115984,
+          "stop" : 1715718116147,
+          "duration" : 163
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "checkoutFinish",
+        "uid" : "733120549e2b541",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718117002,
+          "stop" : 1715718117033,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "productloeschen",
+        "uid" : "aa87bec012bdaffa",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718115803,
+          "stop" : 1715718115829,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "checkoutOhneZip",
+        "uid" : "c5383c66fbc1cdb5",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718116931,
+          "stop" : 1715718116963,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      }, {
+        "name" : "checkProductBild",
+        "uid" : "a11a824213810d7a",
+        "parentUid" : "1511597f3f96d703e234e1bd5b0fe470",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715718114302,
+          "stop" : 1715718114357,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "parameters" : [ "mac", "chrome", "true" ]
+      } ],
+      "uid" : "1511597f3f96d703e234e1bd5b0fe470"
+    } ],
+    "uid" : "2516b806fa3e542f6998164db479085d"
+  } ]
+}

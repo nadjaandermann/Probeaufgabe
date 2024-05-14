@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AutomationTest" parallel="false" thread-count="1" group-by-instances="true">
+    <parameter name="headless" value="true"/>
+    <parameter name="betriebssystem" value="mac"/>
+    <parameter name="browser" value="chrome"/>
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg" />
+    </listeners>
+    <test name="DesktopChrome">
+        <classes>
+            <class name="tests.Login"/>
+            <class name="tests.ProductListe"/>
+            <class name="tests.Product"/>
+            <class name="tests.Warenkorb"/>
+            <class name="tests.Checkout"/>
+        </classes>
+    </test>
+</suite>

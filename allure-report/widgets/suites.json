@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "85faa0b9856674f1e036b0f913b77e42",
+    "name" : "AutomationTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 21,
+      "unknown" : 0,
+      "total" : 21
+    }
+  } ]
+}
